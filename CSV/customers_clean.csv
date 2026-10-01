@@ -1,0 +1,201 @@
+customer_id,customer_name,email,phone,gender,age,city,state,country,signup_date,customer_segment
+CUST0001,Ayaan Sharma,ayaan.sharma1@example.com,9339670711,Male,65,Delhi,Delhi,India,2022-05-17,Consumer
+CUST0002,Deepak Patel,deepak.patel2@example.com,9134126396,Male,23,Indore,Madhya Pradesh,India,2023-05-15,Consumer
+CUST0003,Myra Kulkarni,myra.kulkarni3@example.com,9702632297,Male,63,Patna,Bihar,India,2021-02-24,Small Business
+CUST0004,Deepak Rao,deepak.rao4@example.com,9732719211,Female,18,Mysuru,Karnataka,India,2023-07-09,Consumer
+CUST0005,Pooja Kapoor,pooja.kapoor5@example.com,9331191390,Female,24,Delhi,Delhi,India,2021-11-15,Consumer
+CUST0006,Ramesh Gupta,ramesh.gupta6@example.com,9748245888,Female,20,Hyderabad,Telangana,India,2022-12-06,Small Business
+CUST0007,Kavya Bhatt,kavya.bhatt7@example.com,9184611066,Female,58,Mumbai,Maharashtra,India,2023-02-15,Small Business
+CUST0008,Suresh Trivedi,suresh.trivedi8@example.com,9149203558,Male,36,Bengaluru,Karnataka,India,2021-05-23,Consumer
+CUST0009,Myra Gupta,myra.gupta9@example.com,9586845604,Female,28,Kolkata,West Bengal,India,2022-07-24,Corporate
+CUST0010,Naveen Nair,naveen.nair10@example.com,9795822698,Male,56,Delhi,Delhi,India,2024-10-31,Small Business
+CUST0011,Ananya Bhatt,ananya.bhatt11@example.com,9596348124,Female,35,Mysuru,Karnataka,India,2021-12-01,Small Business
+CUST0012,Anjali Singh,anjali.singh12@example.com,9345938494,Male,38,Coimbatore,Tamil Nadu,India,2021-04-25,Corporate
+CUST0013,Kiara Patel,kiara.patel13@example.com,9870854579,Female,31,Bengaluru,Karnataka,India,2024-03-07,Small Business
+CUST0014,Rahul Malhotra,rahul.malhotra14@example.com,9384412919,Male,33,Lucknow,Uttar Pradesh,India,2021-10-20,Small Business
+CUST0015,Anjali Bhatt,anjali.bhatt15@example.com,9560027313,Female,41,Delhi,Delhi,India,2024-04-12,Consumer
+CUST0016,Krishna Kulkarni,krishna.kulkarni16@example.com,9911514914,Male,25,Kanpur,Uttar Pradesh,India,2021-07-06,Consumer
+CUST0017,Ananya Rao,ananya.rao17@example.com,9513140753,Female,56,Patna,Bihar,India,2021-05-11,Corporate
+CUST0018,Sanjay Mehta,sanjay.mehta18@example.com,9830448745,Male,61,Bhopal,Madhya Pradesh,India,2021-01-24,Small Business
+CUST0019,Kiara Kapoor,kiara.kapoor19@example.com,9566825638,Male,47,Mumbai,Maharashtra,India,2022-08-25,Consumer
+CUST0020,Anika Kulkarni,anika.kulkarni20@example.com,9214257751,Female,58,Nagpur,Maharashtra,India,2023-11-06,Small Business
+CUST0021,Shreya Nair,shreya.nair21@example.com,9918739736,Male,52,Pune,Maharashtra,India,2023-02-05,Small Business
+CUST0022,Aarav Agarwal,aarav.agarwal22@example.com,9120912992,Male,41,Coimbatore,Tamil Nadu,India,2023-09-28,Corporate
+CUST0023,Aarohi Verma,aarohi.verma23@example.com,9184564737,Male,64,Mysuru,Karnataka,India,2024-03-07,Corporate
+CUST0024,Arjun Bhatt,arjun.bhatt24@example.com,9808402051,Female,53,Pune,Maharashtra,India,2021-09-20,Consumer
+CUST0025,Anika Kulkarni,anika.kulkarni25@example.com,9327416584,Male,63,Patna,Bihar,India,2023-05-17,Corporate
+CUST0026,Priya Chopra,priya.chopra26@example.com,9584779555,Male,33,Lucknow,Uttar Pradesh,India,2023-11-26,Consumer
+CUST0027,Arjun Kapoor,arjun.kapoor27@example.com,9694768704,Male,55,Ahmedabad,Gujarat,India,2024-04-19,Consumer
+CUST0028,Aarav Patel,aarav.patel28@example.com,9172370545,Male,39,Surat,Gujarat,India,2022-04-14,Consumer
+CUST0029,Vikram Singh,vikram.singh29@example.com,9621209849,Male,52,Delhi,Delhi,India,2024-10-02,Consumer
+CUST0030,Meera Trivedi,meera.trivedi30@example.com,9942478695,Female,44,Kanpur,Uttar Pradesh,India,2022-05-13,Consumer
+CUST0031,Reyansh Gupta,reyansh.gupta31@example.com,9554814084,Female,47,Jaipur,Rajasthan,India,2022-12-27,Small Business
+CUST0032,Vihaan Gupta,vihaan.gupta32@example.com,9881913386,Female,24,Surat,Gujarat,India,2023-04-05,Consumer
+CUST0033,Aadhya Nair,aadhya.nair33@example.com,9250519597,Female,29,Bhopal,Madhya Pradesh,India,2023-07-08,Corporate
+CUST0034,Kavya Singh,kavya.singh34@example.com,9967607278,Male,21,Vadodara,Gujarat,India,2023-06-27,Small Business
+CUST0035,Deepak Sharma,deepak.sharma35@example.com,9278575192,Female,49,Vadodara,Gujarat,India,2022-04-30,Corporate
+CUST0036,Saanvi Malhotra,saanvi.malhotra36@example.com,9506919288,Male,42,Surat,Gujarat,India,2021-12-04,Corporate
+CUST0037,Kavya Joshi,kavya.joshi37@example.com,9810678904,Female,27,Jaipur,Rajasthan,India,2024-02-13,Consumer
+CUST0038,Riya Nair,riya.nair38@example.com,9889991777,Male,65,Surat,Gujarat,India,2024-04-01,Corporate
+CUST0039,Vihaan Verma,vihaan.verma39@example.com,9639931481,Male,21,Indore,Madhya Pradesh,India,2023-09-04,Small Business
+CUST0040,Sai Iyer,sai.iyer40@example.com,9172972420,Male,43,Vadodara,Gujarat,India,2024-05-03,Consumer
+CUST0041,Meera Singh,meera.singh41@example.com,9142672287,Male,44,Indore,Madhya Pradesh,India,2024-05-02,Small Business
+CUST0042,Divya Trivedi,divya.trivedi42@example.com,9379995032,Male,60,Chandigarh,Punjab,India,2022-10-10,Small Business
+CUST0043,Rohan Singh,rohan.singh43@example.com,9240529481,Female,47,Delhi,Delhi,India,2023-03-22,Corporate
+CUST0044,Arjun Sharma,arjun.sharma44@example.com,9704509817,Male,22,Lucknow,Uttar Pradesh,India,2024-06-26,Small Business
+CUST0045,Saanvi Kulkarni,saanvi.kulkarni45@example.com,9474745382,Male,33,Delhi,Delhi,India,2021-09-29,Corporate
+CUST0046,Riya Iyer,riya.iyer46@example.com,9855420240,Female,57,Lucknow,Uttar Pradesh,India,2024-01-18,Small Business
+CUST0047,Sanjay Sharma,sanjay.sharma47@example.com,9812308209,Male,26,Bhopal,Madhya Pradesh,India,2022-09-06,Corporate
+CUST0048,Ayaan Gupta,ayaan.gupta48@example.com,9392431670,Female,56,Bhopal,Madhya Pradesh,India,2021-11-15,Consumer
+CUST0049,Karan Nair,karan.nair49@example.com,9624557080,Female,21,Delhi,Delhi,India,2023-11-02,Consumer
+CUST0050,Pooja Mehta,pooja.mehta50@example.com,9458153605,Male,58,Surat,Gujarat,India,2021-01-08,Corporate
+CUST0051,Ananya Pillai,ananya.pillai51@example.com,9702269164,Male,25,Bhopal,Madhya Pradesh,India,2023-05-26,Consumer
+CUST0052,Ishaan Bhatt,ishaan.bhatt52@example.com,9725464884,Male,45,Surat,Gujarat,India,2023-01-27,Consumer
+CUST0053,Aditya Joshi,aditya.joshi53@example.com,9484194737,Male,61,Hyderabad,Telangana,India,2021-03-23,Consumer
+CUST0054,Reyansh Chopra,reyansh.chopra54@example.com,9766430218,Male,33,Bhopal,Madhya Pradesh,India,2023-04-13,Consumer
+CUST0055,Diya Rao,diya.rao55@example.com,9890880074,Female,44,Ahmedabad,Gujarat,India,2022-01-03,Small Business
+CUST0056,Aarohi Mehta,aarohi.mehta56@example.com,9510751046,Male,48,Nagpur,Maharashtra,India,2021-08-10,Consumer
+CUST0057,Aadhya Pillai,aadhya.pillai57@example.com,9981044229,Male,32,Hyderabad,Telangana,India,2022-09-18,Consumer
+CUST0058,Aadhya Malhotra,aadhya.malhotra58@example.com,9174539964,Female,40,Coimbatore,Tamil Nadu,India,2022-07-25,Small Business
+CUST0059,Vikram Malhotra,vikram.malhotra59@example.com,9129635852,Male,34,Bhopal,Madhya Pradesh,India,2022-11-10,Consumer
+CUST0060,Divya Mehta,divya.mehta60@example.com,9740563507,Female,40,Surat,Gujarat,India,2021-08-11,Small Business
+CUST0061,Rohan Rao,rohan.rao61@example.com,9224173718,Female,54,Patna,Bihar,India,2023-11-14,Consumer
+CUST0062,Anika Verma,anika.verma62@example.com,9658260221,Male,41,Jaipur,Rajasthan,India,2021-01-04,Corporate
+CUST0063,Arjun Kapoor,arjun.kapoor63@example.com,9812306873,Male,64,Patna,Bihar,India,2022-10-05,Corporate
+CUST0064,Vikram Joshi,vikram.joshi64@example.com,9532074125,Female,53,Jaipur,Rajasthan,India,2022-10-31,Consumer
+CUST0065,Aadhya Rao,aadhya.rao65@example.com,9903303363,Male,57,Kolkata,West Bengal,India,2024-10-19,Small Business
+CUST0066,Isha Malhotra,isha.malhotra66@example.com,9426283245,Female,31,Bhopal,Madhya Pradesh,India,2021-01-01,Corporate
+CUST0067,Divya Agarwal,divya.agarwal67@example.com,9574364121,Female,61,Coimbatore,Tamil Nadu,India,2023-08-11,Consumer
+CUST0068,Vikram Desai,vikram.desai68@example.com,9191048514,Female,50,Nagpur,Maharashtra,India,2024-09-11,Small Business
+CUST0069,Nisha Kapoor,nisha.kapoor69@example.com,9822408848,Female,32,Vadodara,Gujarat,India,2022-04-27,Consumer
+CUST0070,Ishaan Sharma,ishaan.sharma70@example.com,9610173760,Male,47,Surat,Gujarat,India,2022-05-17,Corporate
+CUST0071,Meera Nair,meera.nair71@example.com,9529123992,Male,27,Kolkata,West Bengal,India,2023-10-10,Small Business
+CUST0072,Aarav Gupta,aarav.gupta72@example.com,9288856883,Female,21,Jaipur,Rajasthan,India,2022-03-25,Small Business
+CUST0073,Aarohi Gupta,aarohi.gupta73@example.com,9960514523,Female,60,Lucknow,Uttar Pradesh,India,2021-10-01,Small Business
+CUST0074,Anjali Agarwal,anjali.agarwal74@example.com,9757830420,Female,53,Coimbatore,Tamil Nadu,India,2023-06-26,Corporate
+CUST0075,Ananya Desai,ananya.desai75@example.com,9907214179,Male,58,Lucknow,Uttar Pradesh,India,2022-06-15,Corporate
+CUST0076,Sanjay Desai,sanjay.desai76@example.com,9572309605,Male,63,Mysuru,Karnataka,India,2022-07-17,Corporate
+CUST0077,Aarohi Mehta,aarohi.mehta77@example.com,9679984033,Male,26,Coimbatore,Tamil Nadu,India,2022-10-17,Consumer
+CUST0078,Myra Malhotra,myra.malhotra78@example.com,9168965204,Female,44,Pune,Maharashtra,India,2022-03-15,Corporate
+CUST0079,Deepak Pillai,deepak.pillai79@example.com,9322086735,Female,42,Jaipur,Rajasthan,India,2021-05-08,Small Business
+CUST0080,Vivaan Trivedi,vivaan.trivedi80@example.com,9106330865,Female,37,Kolkata,West Bengal,India,2023-09-04,Corporate
+CUST0081,Neha Bhatt,neha.bhatt81@example.com,9336801619,Female,32,Bhopal,Madhya Pradesh,India,2024-05-20,Corporate
+CUST0082,Pooja Desai,pooja.desai82@example.com,9460916347,Female,64,Ahmedabad,Gujarat,India,2023-03-08,Consumer
+CUST0083,Kavya Reddy,kavya.reddy83@example.com,9128955006,Female,55,Patna,Bihar,India,2023-12-30,Small Business
+CUST0084,Vivaan Patel,vivaan.patel84@example.com,9595744935,Male,21,Jaipur,Rajasthan,India,2021-10-05,Corporate
+CUST0085,Ramesh Kapoor,ramesh.kapoor85@example.com,9450948014,Female,42,Bengaluru,Karnataka,India,2023-07-21,Corporate
+CUST0086,Neha Mehta,neha.mehta86@example.com,9120812641,Male,40,Vadodara,Gujarat,India,2023-08-22,Consumer
+CUST0087,Arjun Verma,arjun.verma87@example.com,9314061901,Male,57,Ahmedabad,Gujarat,India,2022-05-22,Consumer
+CUST0088,Aarohi Reddy,aarohi.reddy88@example.com,9222824732,Male,47,Kanpur,Uttar Pradesh,India,2024-10-03,Small Business
+CUST0089,Anika Chopra,anika.chopra89@example.com,9752027025,Male,28,Nagpur,Maharashtra,India,2024-05-25,Corporate
+CUST0090,Reyansh Trivedi,reyansh.trivedi90@example.com,9718257024,Female,43,Ahmedabad,Gujarat,India,2022-10-01,Small Business
+CUST0091,Aadhya Patel,aadhya.patel91@example.com,9360757540,Male,62,Indore,Madhya Pradesh,India,2024-07-08,Corporate
+CUST0092,Shreya Gupta,shreya.gupta92@example.com,9472807202,Female,60,Indore,Madhya Pradesh,India,2021-03-26,Corporate
+CUST0093,Arjun Kulkarni,arjun.kulkarni93@example.com,9551034639,Female,24,Coimbatore,Tamil Nadu,India,2021-01-26,Corporate
+CUST0094,Suresh Pillai,suresh.pillai94@example.com,9289125618,Female,57,Pune,Maharashtra,India,2023-06-11,Small Business
+CUST0095,Amit Pillai,amit.pillai95@example.com,9388187517,Female,33,Jaipur,Rajasthan,India,2024-04-28,Consumer
+CUST0096,Kiara Pillai,kiara.pillai96@example.com,9711871397,Female,39,Mysuru,Karnataka,India,2023-08-10,Consumer
+CUST0097,Rahul Kapoor,rahul.kapoor97@example.com,9327761953,Female,34,Nagpur,Maharashtra,India,2023-09-26,Corporate
+CUST0098,Kiara Agarwal,kiara.agarwal98@example.com,9110899674,Male,23,Delhi,Delhi,India,2024-02-13,Consumer
+CUST0099,Neha Desai,neha.desai99@example.com,9841536135,Female,59,Bhopal,Madhya Pradesh,India,2022-05-08,Small Business
+CUST0100,Rahul Pillai,rahul.pillai100@example.com,9415933049,Male,43,Ahmedabad,Gujarat,India,2021-07-10,Small Business
+CUST0101,Aarohi Joshi,aarohi.joshi101@example.com,9608159580,Female,45,Indore,Madhya Pradesh,India,2023-01-26,Small Business
+CUST0102,Anjali Kapoor,anjali.kapoor102@example.com,9390894296,Female,34,Hyderabad,Telangana,India,2023-07-19,Consumer
+CUST0103,Ayaan Nair,ayaan.nair103@example.com,9897662466,Male,30,Coimbatore,Tamil Nadu,India,2021-09-02,Consumer
+CUST0104,Amit Mehta,amit.mehta104@example.com,9740799178,Female,24,Indore,Madhya Pradesh,India,2023-12-11,Consumer
+CUST0105,Riya Singh,riya.singh105@example.com,9424557359,Male,63,Hyderabad,Telangana,India,2022-01-03,Small Business
+CUST0106,Krishna Mehta,krishna.mehta106@example.com,9694164665,Female,62,Surat,Gujarat,India,2021-04-22,Consumer
+CUST0107,Rahul Gupta,rahul.gupta107@example.com,9405307028,Female,48,Ahmedabad,Gujarat,India,2024-03-21,Corporate
+CUST0108,Karan Iyer,karan.iyer108@example.com,9612957813,Male,22,Surat,Gujarat,India,2022-06-02,Corporate
+CUST0109,Rahul Patel,rahul.patel109@example.com,9837071174,Male,27,Indore,Madhya Pradesh,India,2024-07-13,Consumer
+CUST0110,Meera Joshi,meera.joshi110@example.com,9227186396,Female,56,Vadodara,Gujarat,India,2022-05-24,Small Business
+CUST0111,Nisha Singh,nisha.singh111@example.com,9583736219,Female,37,Chandigarh,Punjab,India,2023-02-19,Small Business
+CUST0112,Pooja Joshi,pooja.joshi112@example.com,9164671796,Male,31,Indore,Madhya Pradesh,India,2024-06-25,Small Business
+CUST0113,Saanvi Mehta,saanvi.mehta113@example.com,9357553274,Male,53,Vadodara,Gujarat,India,2021-11-18,Consumer
+CUST0114,Ananya Sharma,ananya.sharma114@example.com,9840206617,Female,36,Jaipur,Rajasthan,India,2023-07-12,Consumer
+CUST0115,Myra Joshi,myra.joshi115@example.com,9176428684,Male,34,Chennai,Tamil Nadu,India,2023-07-19,Small Business
+CUST0116,Divya Nair,divya.nair116@example.com,9684719405,Male,59,Jaipur,Rajasthan,India,2021-08-24,Consumer
+CUST0117,Kiara Reddy,kiara.reddy117@example.com,9278158234,Female,56,Vadodara,Gujarat,India,2021-05-03,Small Business
+CUST0118,Meera Joshi,meera.joshi118@example.com,9603260608,Female,62,Lucknow,Uttar Pradesh,India,2021-09-12,Corporate
+CUST0119,Kiara Kulkarni,kiara.kulkarni119@example.com,9570040006,Male,56,Bhopal,Madhya Pradesh,India,2023-10-09,Consumer
+CUST0120,Pooja Kapoor,pooja.kapoor120@example.com,9127772220,Male,32,Patna,Bihar,India,2022-05-28,Small Business
+CUST0121,Meera Trivedi,meera.trivedi121@example.com,9981994345,Female,54,Ahmedabad,Gujarat,India,2024-10-08,Consumer
+CUST0122,Diya Desai,diya.desai122@example.com,9574840200,Female,29,Chandigarh,Punjab,India,2024-08-27,Small Business
+CUST0123,Pooja Desai,pooja.desai123@example.com,9473620340,Female,39,Vadodara,Gujarat,India,2023-08-21,Corporate
+CUST0124,Reyansh Iyer,reyansh.iyer124@example.com,9844826434,Female,36,Coimbatore,Tamil Nadu,India,2023-04-24,Small Business
+CUST0125,Priya Bhatt,priya.bhatt125@example.com,9194553481,Female,34,Surat,Gujarat,India,2023-07-21,Corporate
+CUST0126,Ayaan Malhotra,ayaan.malhotra126@example.com,9806157458,Female,44,Chandigarh,Punjab,India,2021-01-03,Consumer
+CUST0127,Aadhya Kulkarni,aadhya.kulkarni127@example.com,9912224654,Female,58,Hyderabad,Telangana,India,2024-06-29,Corporate
+CUST0128,Vihaan Nair,vihaan.nair128@example.com,9240674381,Female,46,Delhi,Delhi,India,2024-01-30,Small Business
+CUST0129,Rahul Gupta,rahul.gupta129@example.com,9753770973,Male,63,Ahmedabad,Gujarat,India,2024-07-14,Consumer
+CUST0130,Isha Bhatt,isha.bhatt130@example.com,9538076670,Male,32,Ahmedabad,Gujarat,India,2024-02-06,Consumer
+CUST0131,Kavya Gupta,kavya.gupta131@example.com,9869446962,Female,50,Pune,Maharashtra,India,2023-10-18,Small Business
+CUST0132,Kiara Rao,kiara.rao132@example.com,9361704064,Female,53,Kanpur,Uttar Pradesh,India,2023-08-26,Consumer
+CUST0133,Ramesh Nair,ramesh.nair133@example.com,9901325519,Male,22,Patna,Bihar,India,2023-11-07,Corporate
+CUST0134,Neha Kapoor,neha.kapoor134@example.com,9981058292,Male,36,Chandigarh,Punjab,India,2022-07-02,Small Business
+CUST0135,Isha Trivedi,isha.trivedi135@example.com,9625747313,Male,46,Indore,Madhya Pradesh,India,2024-09-13,Small Business
+CUST0136,Amit Chopra,amit.chopra136@example.com,9919128302,Female,47,Coimbatore,Tamil Nadu,India,2024-02-05,Corporate
+CUST0137,Aadhya Singh,aadhya.singh137@example.com,9350785761,Female,20,Indore,Madhya Pradesh,India,2023-02-24,Corporate
+CUST0138,Amit Malhotra,amit.malhotra138@example.com,9950826208,Male,49,Kolkata,West Bengal,India,2024-09-21,Consumer
+CUST0139,Krishna Kulkarni,krishna.kulkarni139@example.com,9207765664,Female,24,Indore,Madhya Pradesh,India,2022-11-11,Small Business
+CUST0140,Kavya Sharma,kavya.sharma140@example.com,9803066091,Male,22,Pune,Maharashtra,India,2023-04-20,Corporate
+CUST0141,Anika Kapoor,anika.kapoor141@example.com,9797756796,Male,39,Patna,Bihar,India,2023-03-26,Small Business
+CUST0142,Deepak Malhotra,deepak.malhotra142@example.com,9871716956,Female,52,Coimbatore,Tamil Nadu,India,2024-07-07,Consumer
+CUST0143,Nisha Patel,nisha.patel143@example.com,9834868441,Female,32,Mysuru,Karnataka,India,2024-07-16,Small Business
+CUST0144,Sai Rao,sai.rao144@example.com,9855797020,Male,46,Mumbai,Maharashtra,India,2024-07-21,Consumer
+CUST0145,Isha Sharma,isha.sharma145@example.com,9954852540,Male,36,Surat,Gujarat,India,2022-10-27,Corporate
+CUST0146,Suresh Rao,suresh.rao146@example.com,9670335494,Female,54,Pune,Maharashtra,India,2022-05-16,Small Business
+CUST0147,Diya Iyer,diya.iyer147@example.com,9754436820,Female,57,Nagpur,Maharashtra,India,2021-06-11,Small Business
+CUST0148,Aarohi Desai,aarohi.desai148@example.com,9349310440,Female,58,Indore,Madhya Pradesh,India,2021-10-21,Corporate
+CUST0149,Kavya Mehta,kavya.mehta149@example.com,9408842146,Male,22,Ahmedabad,Gujarat,India,2023-08-11,Corporate
+CUST0150,Naveen Trivedi,naveen.trivedi150@example.com,9555598254,Female,47,Chennai,Tamil Nadu,India,2024-08-01,Corporate
+CUST0151,Aadhya Malhotra,aadhya.malhotra151@example.com,9354697684,Female,54,Kanpur,Uttar Pradesh,India,2021-08-07,Corporate
+CUST0152,Meera Joshi,meera.joshi152@example.com,9991246046,Female,35,Chennai,Tamil Nadu,India,2021-02-14,Consumer
+CUST0153,Meera Verma,meera.verma153@example.com,9994253959,Female,32,Patna,Bihar,India,2023-10-15,Small Business
+CUST0154,Naveen Singh,naveen.singh154@example.com,9369108475,Male,58,Bengaluru,Karnataka,India,2024-06-25,Consumer
+CUST0155,Aditya Joshi,aditya.joshi155@example.com,9722312633,Female,64,Lucknow,Uttar Pradesh,India,2021-03-10,Consumer
+CUST0156,Sai Joshi,sai.joshi156@example.com,9288592093,Male,26,Coimbatore,Tamil Nadu,India,2023-05-01,Small Business
+CUST0157,Suresh Kulkarni,suresh.kulkarni157@example.com,9991713190,Male,34,Chandigarh,Punjab,India,2022-07-13,Corporate
+CUST0158,Riya Kapoor,riya.kapoor158@example.com,9180852074,Male,32,Mumbai,Maharashtra,India,2023-08-18,Small Business
+CUST0159,Priya Bhatt,priya.bhatt159@example.com,9948988297,Female,18,Hyderabad,Telangana,India,2021-07-04,Corporate
+CUST0160,Deepak Gupta,deepak.gupta160@example.com,9822443971,Female,55,Lucknow,Uttar Pradesh,India,2023-01-25,Corporate
+CUST0161,Suresh Gupta,suresh.gupta161@example.com,9126870011,Female,57,Mysuru,Karnataka,India,2023-08-24,Consumer
+CUST0162,Arjun Pillai,arjun.pillai162@example.com,9538404342,Male,26,Chennai,Tamil Nadu,India,2024-08-22,Consumer
+CUST0163,Aditya Joshi,aditya.joshi163@example.com,9204359116,Male,52,Kanpur,Uttar Pradesh,India,2021-08-26,Consumer
+CUST0164,Ramesh Pillai,ramesh.pillai164@example.com,9897940629,Female,55,Hyderabad,Telangana,India,2024-10-05,Small Business
+CUST0165,Ishaan Rao,ishaan.rao165@example.com,9761051532,Female,35,Mumbai,Maharashtra,India,2023-09-30,Consumer
+CUST0166,Suresh Nair,suresh.nair166@example.com,9353524015,Female,24,Lucknow,Uttar Pradesh,India,2023-06-30,Small Business
+CUST0167,Suresh Bhatt,suresh.bhatt167@example.com,9527499187,Female,30,Hyderabad,Telangana,India,2021-05-05,Consumer
+CUST0168,Kavya Patel,kavya.patel168@example.com,9786650291,Male,21,Bengaluru,Karnataka,India,2024-08-07,Corporate
+CUST0169,Aarohi Reddy,aarohi.reddy169@example.com,9173669588,Male,55,Indore,Madhya Pradesh,India,2022-02-25,Consumer
+CUST0170,Myra Kapoor,myra.kapoor170@example.com,9103044648,Female,27,Pune,Maharashtra,India,2024-05-05,Consumer
+CUST0171,Deepak Mehta,deepak.mehta171@example.com,9809805235,Male,26,Nagpur,Maharashtra,India,2021-08-14,Consumer
+CUST0172,Naveen Singh,naveen.singh172@example.com,9116944811,Male,34,Indore,Madhya Pradesh,India,2022-10-26,Consumer
+CUST0173,Krishna Rao,krishna.rao173@example.com,9900651998,Male,48,Chandigarh,Punjab,India,2021-08-21,Corporate
+CUST0174,Suresh Kulkarni,suresh.kulkarni174@example.com,9585337126,Male,57,Indore,Madhya Pradesh,India,2021-08-12,Consumer
+CUST0175,Sanjay Joshi,sanjay.joshi175@example.com,9133447745,Male,48,Lucknow,Uttar Pradesh,India,2024-08-10,Corporate
+CUST0176,Pooja Gupta,pooja.gupta176@example.com,9178910051,Male,38,Kanpur,Uttar Pradesh,India,2023-06-28,Small Business
+CUST0177,Ishaan Patel,ishaan.patel177@example.com,9770355806,Female,42,Pune,Maharashtra,India,2022-07-18,Small Business
+CUST0178,Sanjay Joshi,sanjay.joshi178@example.com,9750072069,Female,24,Lucknow,Uttar Pradesh,India,2023-11-02,Small Business
+CUST0179,Ayaan Bhatt,ayaan.bhatt179@example.com,9584853393,Male,44,Bengaluru,Karnataka,India,2023-05-31,Corporate
+CUST0180,Kavya Malhotra,kavya.malhotra180@example.com,9435596237,Female,38,Jaipur,Rajasthan,India,2021-07-14,Small Business
+CUST0181,Anika Chopra,anika.chopra181@example.com,9172083844,Male,23,Pune,Maharashtra,India,2023-08-30,Consumer
+CUST0182,Pooja Gupta,pooja.gupta182@example.com,9697398528,Male,55,Hyderabad,Telangana,India,2021-09-24,Small Business
+CUST0183,Anjali Kapoor,anjali.kapoor183@example.com,9479673044,Female,64,Mumbai,Maharashtra,India,2023-04-22,Consumer
+CUST0184,Riya Agarwal,riya.agarwal184@example.com,9211240259,Male,27,Chennai,Tamil Nadu,India,2022-12-22,Small Business
+CUST0185,Amit Singh,amit.singh185@example.com,9697285504,Female,25,Mumbai,Maharashtra,India,2022-12-19,Corporate
+CUST0186,Meera Singh,meera.singh186@example.com,9924024405,Male,56,Jaipur,Rajasthan,India,2024-02-23,Small Business
+CUST0187,Kiara Sharma,kiara.sharma187@example.com,9854517058,Female,39,Nagpur,Maharashtra,India,2022-07-14,Corporate
+CUST0188,Aarav Iyer,aarav.iyer188@example.com,9805818425,Female,22,Pune,Maharashtra,India,2024-03-05,Consumer
+CUST0189,Vivaan Patel,vivaan.patel189@example.com,9503935666,Female,47,Chandigarh,Punjab,India,2022-03-17,Corporate
+CUST0190,Ananya Chopra,ananya.chopra190@example.com,9934120892,Male,21,Chennai,Tamil Nadu,India,2022-10-27,Consumer
+CUST0191,Ananya Agarwal,ananya.agarwal191@example.com,9187597497,Female,46,Surat,Gujarat,India,2024-10-12,Small Business
+CUST0192,Pooja Desai,pooja.desai192@example.com,9544726404,Female,31,Patna,Bihar,India,2023-06-25,Small Business
+CUST0193,Ayaan Chopra,ayaan.chopra193@example.com,9404133583,Female,51,Jaipur,Rajasthan,India,2021-08-16,Small Business
+CUST0194,Isha Verma,isha.verma194@example.com,9743520276,Male,18,Mysuru,Karnataka,India,2023-03-21,Consumer
+CUST0195,Isha Nair,isha.nair195@example.com,9410791488,Female,25,Pune,Maharashtra,India,2022-06-08,Consumer
+CUST0196,Rahul Rao,rahul.rao196@example.com,9508244633,Male,50,Nagpur,Maharashtra,India,2021-09-22,Small Business
+CUST0197,Naveen Patel,naveen.patel197@example.com,9568387228,Male,47,Kolkata,West Bengal,India,2021-03-28,Consumer
+CUST0198,Rohan Trivedi,rohan.trivedi198@example.com,9534245762,Female,36,Jaipur,Rajasthan,India,2024-03-20,Consumer
+CUST0199,Priya Sharma,priya.sharma199@example.com,9960413104,Female,62,Coimbatore,Tamil Nadu,India,2021-12-18,Corporate
+CUST0200,Sai Rao,sai.rao200@example.com,9567804106,Female,51,Mumbai,Maharashtra,India,2022-05-14,Consumer

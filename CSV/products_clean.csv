@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,supplier,stock_quantity
+PROD0001,Primo Cameras 441,Electronics,Cameras,UrbanEdge,21533.94,13070.81,Supplier A,261
+PROD0002,Alto Chairs 459,Furniture,Chairs,UrbanEdge,10538.65,8006.01,Supplier B,52
+PROD0003,UrbanEdge Women Wear 878,Clothing,Women Wear,Zenith,5104.15,3913.93,Supplier B,487
+PROD0004,Marvo Staples 559,Groceries,Staples,Marvo,10787.53,7012.9,Supplier E,165
+PROD0005,BlueBay Sportswear 746,Sports,Sportswear,Vertex,2915.38,2349.27,Supplier C,302
+PROD0006,BlueBay Mobiles 562,Electronics,Mobiles,Nova,6650.61,5343.94,Supplier A,188
+PROD0007,Zenith Sofas 729,Furniture,Sofas,Marvo,2136.66,1243.29,Supplier E,196
+PROD0008,Nova Footwear 560,Clothing,Footwear,Marvo,15504.24,8746.91,Supplier B,164
+PROD0009,Nova Personal Care 561,Groceries,Personal Care,Zenith,9274.78,7186.87,Supplier C,365
+PROD0010,Primo Fitness Equipment 824,Sports,Fitness Equipment,BlueBay,9930.05,7617.78,Supplier D,268
+PROD0011,Vertex Smart Watches 496,Electronics,Smart Watches,Crestline,13029.0,9186.1,Supplier C,347
+PROD0012,Alto Beds 167,Furniture,Beds,Alto,1389.5,880.25,Supplier A,285
+PROD0013,Marvo Footwear 994,Clothing,Footwear,UrbanEdge,7082.45,4333.79,Supplier C,41
+PROD0014,Vertex Personal Care 771,Groceries,Personal Care,Crestline,17479.16,9987.82,Supplier B,304
+PROD0015,Alto Fitness Equipment 932,Sports,Fitness Equipment,UrbanEdge,6720.45,4712.77,Supplier E,47
+PROD0016,Vertex Cameras 284,Electronics,Cameras,Primo,9295.74,7676.48,Supplier C,485
+PROD0017,UrbanEdge Bookshelves 179,Furniture,Bookshelves,Vertex,5329.54,2960.88,Supplier A,259
+PROD0018,Nova Accessories 777,Clothing,Accessories,Alto,21702.52,12543.29,Supplier E,67
+PROD0019,Marvo Personal Care 928,Groceries,Personal Care,UrbanEdge,7411.92,5713.13,Supplier D,22
+PROD0020,BlueBay Cycles 725,Sports,Cycles,Vertex,9020.42,5528.06,Supplier D,119
+PROD0021,BlueBay Smart Watches 955,Electronics,Smart Watches,Primo,6518.87,3663.61,Supplier C,347
+PROD0022,Vertex Beds 896,Furniture,Beds,Crestline,21812.68,14768.15,Supplier E,270
+PROD0023,Marvo Footwear 241,Clothing,Footwear,Vertex,24502.56,14497.4,Supplier A,328
+PROD0024,Zenith Staples 828,Groceries,Staples,Solace,20116.0,13124.34,Supplier A,145
+PROD0025,Solace Fitness Equipment 250,Sports,Fitness Equipment,Crestline,15641.95,11470.44,Supplier A,484
+PROD0026,Nova Laptops 524,Electronics,Laptops,Nova,21234.71,12268.88,Supplier D,257
+PROD0027,Alto Sofas 329,Furniture,Sofas,Nova,6491.69,3613.09,Supplier C,476
+PROD0028,UrbanEdge Men Wear 240,Clothing,Men Wear,Nova,20039.63,12603.73,Supplier C,469
+PROD0029,BlueBay Staples 559,Groceries,Staples,Marvo,13437.78,10471.47,Supplier A,463
+PROD0030,UrbanEdge Fitness Equipment 661,Sports,Fitness Equipment,Marvo,509.37,383.16,Supplier E,216
+PROD0031,Zenith Mobiles 148,Electronics,Mobiles,Primo,15661.2,11664.97,Supplier D,327
+PROD0032,BlueBay Beds 711,Furniture,Beds,Solace,8752.87,6910.99,Supplier A,323
+PROD0033,Vertex Accessories 539,Clothing,Accessories,Nova,14138.95,8668.21,Supplier E,180
+PROD0034,Zenith Beverages 636,Groceries,Beverages,Alto,11290.33,8602.89,Supplier A,488
+PROD0035,Solace Yoga 667,Sports,Yoga,Nova,13720.55,8206.82,Supplier D,447
+PROD0036,Alto Cameras 359,Electronics,Cameras,Nova,1072.18,748.66,Supplier C,403
+PROD0037,Zenith Chairs 890,Furniture,Chairs,Marvo,8588.37,5237.56,Supplier C,68
+PROD0038,UrbanEdge Men Wear 950,Clothing,Men Wear,BlueBay,7505.7,5349.26,Supplier D,323
+PROD0039,BlueBay Beverages 137,Groceries,Beverages,Vertex,15091.15,12191.32,Supplier B,22
+PROD0040,Vertex Outdoor Gear 627,Sports,Outdoor Gear,Crestline,18476.06,13298.28,Supplier E,242
+PROD0041,Vertex Headphones 465,Electronics,Headphones,Nova,1025.38,645.65,Supplier C,139
+PROD0042,Crestline Chairs 861,Furniture,Chairs,BlueBay,17560.96,12010.2,Supplier D,173
+PROD0043,Solace Women Wear 373,Clothing,Women Wear,Zenith,11229.01,7493.43,Supplier D,40
+PROD0044,Solace Staples 400,Groceries,Staples,Alto,15370.27,9076.55,Supplier A,40
+PROD0045,Marvo Sportswear 834,Sports,Sportswear,Crestline,13766.6,9947.7,Supplier B,353
+PROD0046,Alto Cameras 729,Electronics,Cameras,Crestline,6541.32,5338.05,Supplier C,327
+PROD0047,Alto Chairs 625,Furniture,Chairs,UrbanEdge,1927.67,1218.11,Supplier A,73
+PROD0048,UrbanEdge Accessories 168,Clothing,Accessories,Primo,14926.77,10203.52,Supplier C,185
+PROD0049,UrbanEdge Staples 795,Groceries,Staples,BlueBay,17373.31,14247.06,Supplier C,190
+PROD0050,Solace Cycles 475,Sports,Cycles,Crestline,17713.67,11469.96,Supplier C,332
+PROD0051,UrbanEdge Headphones 611,Electronics,Headphones,Solace,4843.02,3819.21,Supplier D,467
+PROD0052,BlueBay Beds 319,Furniture,Beds,Marvo,3087.94,1854.64,Supplier C,355
+PROD0053,Zenith Footwear 562,Clothing,Footwear,UrbanEdge,3950.23,3082.66,Supplier D,44
+PROD0054,Solace Dairy 655,Groceries,Dairy,Vertex,16339.85,10050.81,Supplier C,435
+PROD0055,UrbanEdge Outdoor Gear 912,Sports,Outdoor Gear,Alto,18803.89,10705.96,Supplier E,114
+PROD0056,Primo Mobiles 909,Electronics,Mobiles,BlueBay,24757.48,14778.47,Supplier A,184
+PROD0057,Solace Beds 232,Furniture,Beds,Marvo,12771.68,8626.93,Supplier A,33
+PROD0058,BlueBay Kids Wear 638,Clothing,Kids Wear,Crestline,9834.07,6032.58,Supplier D,421
+PROD0059,Zenith Personal Care 560,Groceries,Personal Care,BlueBay,2138.13,1198.89,Supplier E,176
+PROD0060,Marvo Outdoor Gear 286,Sports,Outdoor Gear,UrbanEdge,21989.0,13181.61,Supplier D,257
+PROD0061,Vertex Mobiles 268,Electronics,Mobiles,UrbanEdge,18867.21,12487.72,Supplier C,478
+PROD0062,Vertex Tables 966,Furniture,Tables,Zenith,9273.98,5255.74,Supplier C,100
+PROD0063,Marvo Accessories 646,Clothing,Accessories,Zenith,6598.24,4189.32,Supplier E,328
+PROD0064,UrbanEdge Beverages 774,Groceries,Beverages,Marvo,13808.45,8917.95,Supplier E,172
+PROD0065,Zenith Yoga 146,Sports,Yoga,Marvo,1226.5,713.8,Supplier C,333
+PROD0066,Nova Laptops 609,Electronics,Laptops,Solace,16714.6,11527.69,Supplier C,328
+PROD0067,Crestline Sofas 404,Furniture,Sofas,BlueBay,12277.6,7295.88,Supplier A,352
+PROD0068,BlueBay Men Wear 308,Clothing,Men Wear,Alto,3558.79,2455.4,Supplier E,73
+PROD0069,Alto Dairy 508,Groceries,Dairy,UrbanEdge,18001.79,12936.13,Supplier C,263
+PROD0070,Zenith Yoga 373,Sports,Yoga,BlueBay,2262.55,1682.14,Supplier B,72
+PROD0071,Marvo Mobiles 528,Electronics,Mobiles,Primo,1509.25,854.02,Supplier B,416
+PROD0072,Primo Sofas 881,Furniture,Sofas,UrbanEdge,22878.54,14012.9,Supplier D,263
+PROD0073,Nova Footwear 192,Clothing,Footwear,Crestline,10432.09,7531.52,Supplier E,234
+PROD0074,Nova Beverages 388,Groceries,Beverages,BlueBay,4666.71,3305.65,Supplier E,451
+PROD0075,Zenith Cycles 541,Sports,Cycles,UrbanEdge,5250.56,4357.65,Supplier C,372
+PROD0076,Crestline Headphones 152,Electronics,Headphones,Marvo,16298.66,11481.47,Supplier E,99
+PROD0077,Solace Sofas 561,Furniture,Sofas,Solace,10379.71,8343.02,Supplier C,422
+PROD0078,Zenith Accessories 503,Clothing,Accessories,Alto,13015.36,10237.94,Supplier C,285
+PROD0079,Solace Dairy 511,Groceries,Dairy,Solace,14974.24,11348.98,Supplier A,23
+PROD0080,BlueBay Fitness Equipment 631,Sports,Fitness Equipment,BlueBay,2998.2,2141.84,Supplier B,310
+PROD0081,Alto Smart Watches 266,Electronics,Smart Watches,Crestline,3839.05,2182.74,Supplier E,378
+PROD0082,Solace Sofas 645,Furniture,Sofas,BlueBay,13459.02,8946.5,Supplier E,153
+PROD0083,Zenith Footwear 526,Clothing,Footwear,Marvo,17414.05,12254.66,Supplier C,407
+PROD0084,Marvo Snacks 691,Groceries,Snacks,Primo,12225.64,8993.95,Supplier A,298
+PROD0085,Marvo Cycles 893,Sports,Cycles,Crestline,4165.37,2640.63,Supplier B,420
+PROD0086,Zenith Laptops 295,Electronics,Laptops,Nova,1008.99,570.4,Supplier D,160
+PROD0087,Crestline Bookshelves 613,Furniture,Bookshelves,Marvo,3803.82,2356.33,Supplier D,446
+PROD0088,Solace Men Wear 432,Clothing,Men Wear,BlueBay,16043.08,10616.05,Supplier E,192
+PROD0089,Solace Dairy 450,Groceries,Dairy,Solace,21184.51,14354.61,Supplier C,346
+PROD0090,Primo Sportswear 385,Sports,Sportswear,Solace,12088.33,9190.14,Supplier C,115
+PROD0091,BlueBay Headphones 424,Electronics,Headphones,BlueBay,18810.69,11590.5,Supplier C,286
+PROD0092,Solace Sofas 488,Furniture,Sofas,Crestline,6775.54,4388.06,Supplier C,488
+PROD0093,Zenith Women Wear 454,Clothing,Women Wear,BlueBay,6077.42,4427.74,Supplier C,382
+PROD0094,Vertex Staples 675,Groceries,Staples,Vertex,5579.66,3288.4,Supplier B,55
+PROD0095,Nova Yoga 785,Sports,Yoga,Solace,14966.39,11139.28,Supplier B,326
+PROD0096,BlueBay Laptops 202,Electronics,Laptops,UrbanEdge,1277.29,882.12,Supplier A,493
+PROD0097,BlueBay Beds 588,Furniture,Beds,Primo,18995.32,14670.87,Supplier C,164
+PROD0098,Zenith Kids Wear 767,Clothing,Kids Wear,Marvo,16965.86,9723.88,Supplier B,273
+PROD0099,UrbanEdge Snacks 137,Groceries,Snacks,Crestline,17888.32,13707.12,Supplier D,95
+PROD0100,Marvo Sportswear 717,Sports,Sportswear,Zenith,15869.36,13163.47,Supplier C,145
