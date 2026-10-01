@@ -55,13 +55,13 @@ I created a dashboard to make the results easier to understand. It includes view
 ## Dashboard Screenshots
 
 ### Home Dashboard
-![Home Dashboard](screenshots/home-dashboard.png)
+![Upload Dataset](https://github.com/aanjanakailash/End-to-to-Sales-Anlaysis-using-pandas-PostgreSQL-Power-BI/blob/f5b07083991b9240799746ab85cb016aa4c001c9/Images/img%20(2).png)
 
 ### Churn Analysis
-![Churn Analysis Dashboard](screenshots/churn-dashboard.png)
+![Upload Dataset](https://github.com/aanjanakailash/End-to-to-Sales-Anlaysis-using-pandas-PostgreSQL-Power-BI/blob/f5b07083991b9240799746ab85cb016aa4c001c9/Images/img%20(3).png)
 
 ### Sales Analysis
-![Sales Analysis Dashboard](screenshots/sales-dashboard.png)
+![Upload Dataset](https://github.com/aanjanakailash/End-to-to-Sales-Anlaysis-using-pandas-PostgreSQL-Power-BI/blob/f5b07083991b9240799746ab85cb016aa4c001c9/Images/img%20(1).png)
 
 ## Some Key Findings
 
